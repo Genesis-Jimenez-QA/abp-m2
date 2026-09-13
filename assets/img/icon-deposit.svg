@@ -1,0 +1,16 @@
+<svg viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustración de depósito de dinero">
+  <circle cx="70" cy="70" r="65" fill="#cfe2ff"/>
+
+  <!-- alcancía / billetera -->
+  <rect x="35" y="75" width="70" height="42" rx="10" fill="#0d6efd"/>
+  <rect x="35" y="75" width="70" height="14" rx="7" fill="#0b5ed7"/>
+  <circle cx="70" cy="96" r="9" fill="#ffc107"/>
+
+  <!-- moneda cayendo -->
+  <circle cx="70" cy="35" r="13" fill="#ffc107"/>
+  <text x="70" y="40" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#7a5b00" text-anchor="middle">$</text>
+
+  <!-- flecha hacia abajo -->
+  <path d="M70 52 v18" stroke="#0d6efd" stroke-width="4" stroke-linecap="round"/>
+  <path d="M62 62 l8 10 l8 -10" stroke="#0d6efd" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

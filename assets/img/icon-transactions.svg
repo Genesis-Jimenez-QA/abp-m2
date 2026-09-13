@@ -1,0 +1,15 @@
+<svg viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustración de historial de transacciones">
+  <circle cx="70" cy="70" r="65" fill="#fff3cd"/>
+
+  <!-- recibo -->
+  <rect x="42" y="28" width="56" height="80" rx="6" fill="#ffffff" stroke="#e0a800" stroke-width="2"/>
+  <path d="M42 108 l7 -6 l7 6 l7 -6 l7 6 l7 -6 l7 6 l7 -6 v6 h-42z" fill="#ffffff" stroke="#e0a800" stroke-width="2"/>
+
+  <line x1="50" y1="44" x2="90" y2="44" stroke="#adb5bd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="50" y1="56" x2="90" y2="56" stroke="#adb5bd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="50" y1="68" x2="76" y2="68" stroke="#adb5bd" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- sello de check -->
+  <circle cx="96" cy="88" r="18" fill="#198754"/>
+  <path d="M88 88 l6 6 l12 -13" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
